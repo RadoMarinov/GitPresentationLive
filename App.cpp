@@ -1,9 +1,3 @@
-int main()
-{
-	return 0;
-}
+#!/usr/bin/python
 
-void MyNewFunction()
-{
-
-}
+print 'Hello world!'
